@@ -1,1 +1,16 @@
 Evolution
+Accounts
+CRM
+Buying
+Projects
+Selling
+Setup
+HR
+Stock
+Support
+Utilities
+Assets
+Maintenance
+Regional
+ERPNext Integrations
+
