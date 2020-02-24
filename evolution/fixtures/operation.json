@@ -1,0 +1,90 @@
+[
+ {
+  "description": "INSPECTION",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 10:59:14.289540",
+  "name": "INSPECTION",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "SCRAP",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 10:59:29.975951",
+  "name": "SCRAP",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "RETURN AS IS ",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 10:59:42.422336",
+  "name": "RETURN AS IS",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "OVERHAUL",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 11:00:11.490335",
+  "name": "OVERHAUL",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "NONDESTRUCTIVE TESTING",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 11:02:03.262241",
+  "name": "NONDESTRUCTIVE TESTING",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "MODIFY",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 11:02:24.570383",
+  "name": "MODIFY",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "REPAIR",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 10:59:55.546004",
+  "name": "REPAIR",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ },
+ {
+  "description": "BENCH CHECK",
+  "docstatus": 0,
+  "doctype": "Operation",
+  "modified": "2019-08-29 11:07:31.131330",
+  "name": "BENCH CHECK",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "workstation": null
+ }
+]

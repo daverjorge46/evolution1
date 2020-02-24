@@ -1,0 +1,16 @@
+[
+ {
+  "content": "<div><img src=\"/assets/erpnext/images/jja.jpg\" style=\"width: 180px; float: left;\"></div>\n<div>\n<table border=\"0\" height=\"83\" style=\"height: 83px; width: 37.185%; border-collapse: collapse; float: left;\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<span style=\"color: #0189c7;\"><div>JJA AVIATION INC.</div></span>\n<div>14450 COMMERCE WAY</div>\n<div style=\"text-align: left;\">MIAMI LAKES, FLORIDA 33016</div>\n<div style=\"text-align: left;\">Phone: 305 498 7920 Fax: 786 558 4622</div>\n<span style=\"color: #0189c7;\"><div style=\"text-align: left;\">FAA CRS No. J30R252Y / EASA. 145.5947</div></span>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Letter Head",
+  "footer": null,
+  "is_default": 1,
+  "letter_head_name": "Evolution MRO",
+  "modified": "2020-02-07 14:41:19.523120",
+  "name": "Evolution MRO",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

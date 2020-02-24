@@ -1,0 +1,30 @@
+[
+ {
+  "breadcrumbs": null,
+  "css": null,
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Web Page",
+  "enable_comments": 0,
+  "end_date": null,
+  "header": null,
+  "insert_code": 0,
+  "insert_style": 0,
+  "javascript": null,
+  "main_section": "<h2 style=\"text-align: center;\"><img src=\"/assets/erpnext/images/evolution_wallpaper.png\"></h2><h2 style=\"text-align: center;\"><strong style=\"color: rgb(54, 65, 76); background-color: rgb(255, 255, 255);\">Your MRO (Maintenance, Repair, and Overhaul) software solution. </strong></h2><h3 style=\"text-align: center;\">Your MRO software solution (maintenance, repair and review). Maintaining excellence is a fundamental part of the compliance and preparation of an aircraft. Companies must have the appropriate MRO aviation software for these important steps. Your work team will be able to perform optimized processes with fewer concerns.</h3>",
+  "modified": "2020-02-04 10:53:49.135387",
+  "name": "mro-aviation-software-solution",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "published": 1,
+  "route": "index",
+  "show_sidebar": 0,
+  "show_title": 0,
+  "slideshow": null,
+  "start_date": null,
+  "text_align": "Left",
+  "title": "MRO AVIATION SOFTWARE SOLUTION",
+  "website_sidebar": null
+ }
+]
