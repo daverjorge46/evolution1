@@ -13,7 +13,32 @@ app_license = "MIT"
 
 # Includes in <head>
 # ------------------
+app_include_js = "assets/js/erpnext.min.js"
+app_include_css = "assets/css/erpnext.css"
+web_include_js = "assets/js/erpnext-web.min.js"
+web_include_css = "assets/css/erpnext-web.css"
 
+domains = {
+	'Evolution': 'erpnext.domains.evolution',
+	'Distribution': 'erpnext.domains.distribution',
+	'Services': 'erpnext.domains.services'
+}
+
+website_context = {
+	"favicon": 	"/assets/evolution/images/favicon.png",
+	"splash_image": "/assets/evolution/images/splash.png"
+}
+
+email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
+
+default_mail_footer = """
+	<span>
+		Sent via
+		<a class="text-muted" href="https://jjaaviation.com" target="_blank">
+			Evolution MRO
+		</a>
+	</span>
+  """
 # include js, css files in header of desk.html
 # app_include_css = "/assets/evolution/css/evolution.css"
 # app_include_js = "/assets/evolution/js/evolution.js"
@@ -119,6 +144,5 @@ app_license = "MIT"
 # override_whitelisted_methods = {
 # 	"frappe.desk.doctype.event.event.get_events": "evolution.event.get_events"
 # }
-
 fixtures = ['Terms and Conditions', 'Item Group', 'Letter Head', 'Website Theme', 'Website Settings', 'Web Page', 'Module Def', 'Performance', 'Operation', 'Asset Category', 'Custom Field', 'Custom Script', 'Property Setter', 'Print Settings', 'Print Format','Role Profile', 'Role', 'Report', 'Workflow', 'Workflow State']
 
