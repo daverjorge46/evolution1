@@ -120,5 +120,5 @@ app_license = "MIT"
 # 	"frappe.desk.doctype.event.event.get_events": "evolution.event.get_events"
 # }
 
-fixtures = ['Terms and Conditions', 'Item Group', 'Letter Head', 'Website Theme', 'Website Settings', 'Web Page', 'Module Def', 'Performance', 'Operation', 'Asset Category', 'Custom Field', 'Custom Script', 'Property Setter', 'Print Settings', 'Print Format','Role Profile', 'Role', 'Report', 'Workflow', 'Workflow State', 'Translation']
+fixtures = ['Terms and Conditions', 'Item Group', 'Letter Head', 'Website Theme', 'Website Settings', 'Web Page', 'Module Def', 'Performance', 'Operation', 'Asset Category', 'Custom Field', 'Custom Script', 'Property Setter', 'Print Settings', 'Print Format','Role Profile', 'Role', 'Report', 'Workflow', 'Workflow State']
 
